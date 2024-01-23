@@ -1,0 +1,23 @@
+{
+  "name": "redis-bloom-filter",
+  "version": "1.0.0",
+  "description": "This filter can be used for high load projects and real-time access to huge sized db",
+  "main": "bloom-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeslenkoOleg/redis-bloom-filter.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeslenkoOleg/redis-bloom-filter/issues"
+  },
+  "homepage": "https://github.com/TeslenkoOleg/redis-bloom-filter#readme",
+  "dependencies": {
+    "redis": "^4.6.12"
+  }
+}
